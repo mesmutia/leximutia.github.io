@@ -1,14 +1,14 @@
 # Site settings
-author: Ethan Gustafson
-title: 
+author: Lexi Mutia
+title: Learner Lexi
 header-img: img/home-bg.png
-email: ethan_gustafson@outlook.com
-copyright_name: Ethan Gustafson
+email: muse.malize@gmail.com
+copyright_name: Lexi Mutia
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A informal documentation of my time with Flatiron School.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  GoodGuyGuf
+github_username:  leximutia
 
 # Build settings
 markdown: kramdown
