@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Mile: What Brought Me To Software Engineering?"
-date:       2019-12-10 01:54:42 +0000
+date:       2019-12-09 20:54:42
 permalink:  first_mile_what_brought_me_to_software_engineering
 ---
 
