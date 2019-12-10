@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Mile: Why Did I Decide To Learn Software Engineering?"
-date:       2019-12-10 01:16:34 +0000
+date:       2019-12-09
 permalink:  first_mile_why_did_i_decide_to_learn_software_engineering
 ---
 
